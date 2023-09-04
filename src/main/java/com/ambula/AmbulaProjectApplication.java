@@ -1,0 +1,13 @@
+package com.ambula;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AmbulaProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AmbulaProjectApplication.class, args);
+	}
+
+}
